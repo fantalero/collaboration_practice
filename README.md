@@ -1,3 +1,3 @@
 # collaboration_practice
 
-"The quick brown"
+The quick brown
